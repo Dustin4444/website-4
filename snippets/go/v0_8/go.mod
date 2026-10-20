@@ -29,7 +29,7 @@ require (
 	github.com/inngest/expr v0.0.0-20241106234328-863dff7deec0 // indirect
 	github.com/inngest/inngest v1.4.9-0.20250304181501-2f80c604dee7 // indirect
 	github.com/karlseguin/ccache/v2 v2.0.8 // indirect
-	github.com/klauspost/compress v1.17.11 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/liushuangls/go-anthropic/v2 v2.12.2 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
 	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
